@@ -291,7 +291,7 @@ html>body .extra4::after {
 	content: " ";
 	width: 790px;
 	height: 94px;
-	background: transparent url(images/) top right no-repeat;
+	background: transparent url(images/bg1.gif) top right no-repeat;
 	display: block;
 	margin-left: auto;
 	margin-right: auto;
